@@ -1,0 +1,20 @@
+{
+    "name": "de-belser-arne/binckapi",
+    "description": "A simple BinckBank Api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Arne De Belser",
+            "email": "debelserarne@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "mix.php"
+        ]
+    },
+    "require": {
+        "illuminate/support": "^8.33",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
