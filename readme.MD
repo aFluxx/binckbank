@@ -14,3 +14,6 @@ Copy over `.env.example` to `.env` and fill in your credentials.
 ## Run on windows
 
 Run `binckboncK.bat`, this will instantiate a localhost server.
+## Word of caution
+
+This implementation is meant to run on localhost and is not production ready. [Things to keep in mind](https://github.com/binckbank-api/client-js#logonSuggestions) when using/developing on this API.
